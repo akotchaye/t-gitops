@@ -1,2 +1,0 @@
-# t-gitops
-GitOps repository
